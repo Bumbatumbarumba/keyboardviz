@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keyboardviz/static/css/main.156e19f4.css",
+    "main.js": "/keyboardviz/static/js/main.0fddd756.js",
+    "index.html": "/keyboardviz/index.html",
+    "main.156e19f4.css.map": "/keyboardviz/static/css/main.156e19f4.css.map",
+    "main.0fddd756.js.map": "/keyboardviz/static/js/main.0fddd756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156e19f4.css",
+    "static/js/main.0fddd756.js"
+  ]
+}
